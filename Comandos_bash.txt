@@ -3,4 +3,4 @@ CD = Muda de diretório, por exemplo, cd Desktop/ me manda para o desktop e se e
 PWD = mostra o caminho onde estou (link do explorer)
 mkdir = make directory (cria uma pasta)
 cat = vê o que tem dentro do arquivo
-git init . = transforma a pasta em git
+rm = remove arquivo ou diretório
