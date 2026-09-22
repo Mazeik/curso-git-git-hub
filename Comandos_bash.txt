@@ -1,0 +1,6 @@
+LS = Lista todos os arquivos e pasta da onde "você está"
+CD = Muda de diretório, por exemplo, cd Desktop/ me manda para o desktop e se eu digitar LS, mostra tudo que tem no desktop
+PWD = mostra o caminho onde estou (link do explorer)
+mkdir = make directory (cria uma pasta)
+cat = vê o que tem dentro do arquivo
+git init . = transforma a pasta em git
