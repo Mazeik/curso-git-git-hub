@@ -4,6 +4,10 @@ pwd = mostra o caminho onde estou (link do explorer)
 mkdir = make directory (cria uma pasta)
 cat = vê o que tem dentro do arquivo
 rm = remove arquivo ou diretório
+<<<<<<< HEAD
 rm -rf = remove de forma recursiva e forçada todos os diretórios
 
-que doidera de foda
+que doidera de foda!!
+=======
+rm -rf = remove de forma recursiva e forçada todos os
+ diretórios
