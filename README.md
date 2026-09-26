@@ -2,3 +2,4 @@
 
 Um curso muito foda e de graça!
 
+Obrigado teo por me ensinar GIT
