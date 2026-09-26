@@ -1,4 +1,5 @@
 # Curso TMW Git \& GitHub 2025
 
-Um curso muito foda e de graça
+Um curso muito foda e de graça!
 
+Obrigado teo por me ensinar GIT
